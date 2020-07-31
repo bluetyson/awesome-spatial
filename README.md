@@ -79,6 +79,7 @@ In accordance with being [awesome](https://github.com/sindresorhus/awesome/blob/
 * https://github.com/geo-data/gdal-docker (raster analysis in Docker)
 * https://github.com/sentinelsat/sentinelsat  (find and download Copernicus Sentinel satellite images)
 * https://github.com/oyvindym/earth-observation-api (Earth Observation data over various APIs, samples)
+* https://github.com/ctherien/pysptools
 
 ## Tutorials and Cheat sheets
 * https://github.com/sgillies/frs-cheat-sheet
